@@ -34,6 +34,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>..\packages\AjaxControlToolkit.16.1.1.0\lib\net40\AjaxControlToolkit.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -598,6 +601,8 @@
     <Content Include="main.css" />
     <Content Include="misc.jpg" />
     <Content Include="misc\1743-Web.jpg" />
+    <Content Include="PhotoManager.ascx" />
+    <Content Include="photos_admin.aspx" />
     <Content Include="projects.jpg" />
     <Content Include="scroll.jpg" />
     <Content Include="smiley.png" />
@@ -2348,12 +2353,25 @@
     <Compile Include="default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="PhotoManager.ascx.cs">
+      <DependentUpon>PhotoManager.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PhotoManager.ascx.designer.cs">
+      <DependentUpon>PhotoManager.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="photos_admin.aspx.cs">
+      <DependentUpon>photos_admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="photos_admin.aspx.designer.cs">
+      <DependentUpon>photos_admin.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Artistic\Thumbs.db" />
     <None Include="bio.php" />
-    <None Include="checklogin.php" />
     <None Include="commercial\Thumbs.db" />
     <None Include="commercial\WS_FTP.LOG" />
     <None Include="contact.php" />
@@ -2403,6 +2421,7 @@
     <None Include="headshots\Thumbs.db" />
     <None Include="Italy\Thumbs.db" />
     <None Include="login.php" />
+    <Content Include="packages.config" />
     <None Include="projects.php" />
     <None Include="projects_admin.php" />
     <None Include="scandir.php" />
@@ -2458,6 +2477,12 @@
     <None Include="webdisplay\upload\Sultry\Thumbs.db" />
     <None Include="webdisplay\upload\sweet Italy\Thumbs.db" />
     <None Include="webdisplay\upload\WS_FTP.ini" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\SunriverDatabase\Common\Common.csproj">
+      <Project>{F42E57F0-2327-4E3D-B9F6-2403B6C6CC9D}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />

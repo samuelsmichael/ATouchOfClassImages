@@ -38,9 +38,9 @@ $count=mysql_num_rows($result);
 // If result matched $username and $password, table row must be 1 row
 
 if($count==1){
-// Set cookie and redirect to file "projects_admin.php"
+// Set cookie and redirect to file "photos_admin.aspx"
 setcookie("$username", "$username");
-header("location:projects_admin.php?user=$username");
+header("location:photos_admin.aspx?user=$username");
 }
 else {
 echo "<div align=center>Wrong Username or Password<br><br><a href=login.php>Try Again</a></div>";
