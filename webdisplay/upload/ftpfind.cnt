@@ -1,0 +1,46 @@
+:Base ftpfind.hlp
+:Title WS_FTP Find Utility
+1 Overview=Introduction
+1 Working with FTP Sites
+2 Specifying the FTP Site=Specifying_Where_to_Look
+2 Making the Connection=Making_the_Connection
+2 Entering User ID and Password=User_ID_and_Password
+2 Editing Site Properties
+3 Editing Site Properties in the Find Utility=Overview_of_Editing_Site_Properties_in_the_Find_Utility
+3 Properties Used by the Find Utility
+4 Editing the host name address and or type=Editing_the_host_name_address_and_or_type
+4 Editing your login name for an FTP site=Editing_your_login_name_for_an_FTP_site
+4 Changing the remote port for a site=Changing_the_remote_port_for_a_site
+4 Commenting on an FTP site=Commenting_on_an_FTP_site
+4 Firewall Properties=Firewall_Tab
+3 Other Properties
+4 Session Tab
+5 Getting path filename prompt on a particular site=Getting_path_filename_prompt_on_a_particular_site
+5 Converting filenames from one site to lower case=Converting_filenames_from_one_site_to_lower_case
+5 Monitoring the progress of a transfer=Monitoring_the_progress_of_a_transfer
+5 Getting a confirmation before you delete a file=Getting_a_confirmation_before_you_delete_a_file
+4 Startup Tab
+5 Changing the location you view on an FTP site=Changing_the_location_you_view_on_an_FTP_site
+5 Issuing commands to an FTP site=Issuing_commands_to_an_FTP_site
+5 Displaying only one type of file=Displaying_only_one_type_of_file
+5 Adjusting file dates and times for a different time zone=Adjusting_file_dates_and_times_for_a_different_time_zone
+4 Advanced Tab
+5 Retrying a connection=Retrying_a_connection
+5 Setting the network timeout=Setting_the_network_timeout
+5 Doing passive transfers=Doing_passive_transfers
+1 Entering Search Criteria
+2 Overview of Search Criteria=Overview_of_Criteria
+2 Searching by Name=Searching_by_Name
+2 Searching by Date Modified=Searching_by_Date_Modified
+2 Searching by Size=Searching_by_Size
+2 Include Subfolders=Include_Subfolders
+2 Clearing Search Criteria=Clearing_Search_Criteria
+1 Executing a Search
+2 Starting the Search=Starting_the_Search
+2 Searching a Different FTP Site=Searching_a_Different_FTP_Site
+1 Working with Search Results
+2 List of Found Files and Folders=Results_list
+2 Transferring Files and Folders=Transferring_Files_and_Folders
+2 Transfer Mode=Transfer_Mode
+2 Renaming a File=Renaming_a_File
+2 Deleting a File=Deleting_a_File

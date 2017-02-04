@@ -1,0 +1,421 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "10/1/2014">
+	<sitename>Adobe Web Photo Gallery</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "DSC_9126.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9126.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9127.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9127.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9128.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9128.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9129.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9129.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9130.jpg"
+width = "800"
+height = "640"
+thumbpath = "DSC_9130.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "DSC_9131.jpg"
+width = "800"
+height = "640"
+thumbpath = "DSC_9131.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "DSC_9132.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9132.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9133.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9133.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9134.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9134.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9135.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9135.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9136.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9136.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9137.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9137.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9138.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9138.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9139.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9139.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9140.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9140.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9141.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9141.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9145.jpg"
+width = "532"
+height = "800"
+thumbpath = "DSC_9145.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9146.jpg"
+width = "532"
+height = "800"
+thumbpath = "DSC_9146.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9149.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9149.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9150.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9150.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9151.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9151.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9152.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9152.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9153.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9153.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9154.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9154.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9162.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9162.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9163.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9163.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9164.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9164.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9170.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9170.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9171.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9171.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9174.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9174.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9175.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9175.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9178.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9178.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9179.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9179.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9180.jpg"
+width = "630"
+height = "800"
+thumbpath = "DSC_9180.jpg"
+thumbwidth = "59"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9181.jpg"
+width = "625"
+height = "800"
+thumbpath = "DSC_9181.jpg"
+thumbwidth = "58"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9182.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9182.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9183.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9183.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9184.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9184.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9185.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9185.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_9186.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_9186.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+</images>
+</gallery>

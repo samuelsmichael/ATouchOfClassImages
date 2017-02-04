@@ -1,0 +1,1001 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "8/18/2014">
+	<sitename>Adobe Web Photo Gallery</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "DSC_8591.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8591.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8592.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8592.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8593.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8593.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8594.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8594.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8595.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8595.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8596.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8596.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8597.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8597.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8598.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8598.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8599.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8599.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8600.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8600.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8601.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8601.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8602.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8602.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8604.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8604.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8605.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8605.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8606.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8606.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8607.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8607.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8608.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8608.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8610.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8610.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8611.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8611.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8612.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8612.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8613.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8613.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8614.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8614.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8615.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8615.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8616.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8616.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8617.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8617.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8618.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8618.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8619.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8619.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8620.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8620.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8621.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8621.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8622.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8622.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8625.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8625.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8628.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8628.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8631.jpg"
+width = "800"
+height = "640"
+thumbpath = "DSC_8631.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "DSC_8633.jpg"
+width = "800"
+height = "640"
+thumbpath = "DSC_8633.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "DSC_8634.jpg"
+width = "800"
+height = "640"
+thumbpath = "DSC_8634.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "DSC_8635.jpg"
+width = "800"
+height = "640"
+thumbpath = "DSC_8635.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "DSC_8636.jpg"
+width = "800"
+height = "640"
+thumbpath = "DSC_8636.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "DSC_8637.jpg"
+width = "800"
+height = "640"
+thumbpath = "DSC_8637.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "DSC_8638.jpg"
+width = "800"
+height = "640"
+thumbpath = "DSC_8638.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "DSC_8639.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8639.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8640.jpg"
+width = "800"
+height = "640"
+thumbpath = "DSC_8640.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "DSC_8646.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8646.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8647.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8647.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8648.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8648.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8649.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8649.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8652.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8652.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8653.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8653.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8654.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8654.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8656.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8656.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8659.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8659.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8663.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8663.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8664.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8664.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8665.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8665.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8666.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8666.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8667.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8667.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8669.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8669.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8670.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8670.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8671.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8671.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8672.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8672.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8673.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8673.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8676.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8676.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8676-A.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8676-A.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8685.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8685.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8686.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8686.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8687.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8687.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8690.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8690.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8691.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8691.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8693.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8693.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8694.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8694.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8695.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8695.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8696.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8696.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8697.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8697.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8698.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8698.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8704.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8704.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8705.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8705.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8706.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8706.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8707.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8707.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8708.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8708.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8711.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8711.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8712.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8712.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8713.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8713.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8714.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8714.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8715.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8715.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8716.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8716.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8717.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8717.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8718.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8718.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8719.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8719.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8720.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8720.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8722.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8722.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8723.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8723.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8724.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8724.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8725.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8725.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8726.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8726.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8727.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8727.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8728.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8728.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8729.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8729.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8730.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8730.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_8731.jpg"
+width = "640"
+height = "800"
+thumbpath = "DSC_8731.jpg"
+thumbwidth = "60"
+thumbheight = "75">
+</image>
+
+</images>
+</gallery>
