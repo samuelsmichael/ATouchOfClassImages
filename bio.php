@@ -98,7 +98,7 @@ if (parent.frames.length > 0) {
 <div id="footerbox">
 P.O. Box 38081, Colorado Springs, CO 80904, 719-633-3786
 <br>
-© <?php print(Date("Y")); ?> Alberto Leopizzi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Services by <a href="http://www.robinbriggs.com">Robin Briggs</a>&nbsp;&nbsp;<a href="login.php"><img border="0" src="smiley.png"></a>
+© <?php print(Date("Y")); ?> Alberto Leopizzi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Services by <a href="mailto:diamondsoftware222@gmail.com">Diamond Software</a>&nbsp;&nbsp;<a href="login.php"><img border="0" src="smiley.png"></a>
 </div>
 
 </div>
