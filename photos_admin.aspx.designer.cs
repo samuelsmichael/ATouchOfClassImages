@@ -31,6 +31,96 @@ namespace ATouchOfClassImages {
         protected global::System.Web.UI.ScriptManager ScriptManager1;
         
         /// <summary>
+        /// PhotoManager2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::ATouchOfClassImages.PhotoManager PhotoManager2;
+        
+        /// <summary>
+        /// PhotoManager3 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::ATouchOfClassImages.PhotoManager PhotoManager3;
+        
+        /// <summary>
+        /// PhotoManager10 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::ATouchOfClassImages.PhotoManager PhotoManager10;
+        
+        /// <summary>
+        /// PhotoManager4 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::ATouchOfClassImages.PhotoManager PhotoManager4;
+        
+        /// <summary>
+        /// PhotoManager11 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::ATouchOfClassImages.PhotoManager PhotoManager11;
+        
+        /// <summary>
+        /// PhotoManager5 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::ATouchOfClassImages.PhotoManager PhotoManager5;
+        
+        /// <summary>
+        /// PhotoManager6 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::ATouchOfClassImages.PhotoManager PhotoManager6;
+        
+        /// <summary>
+        /// PhotoManager7 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::ATouchOfClassImages.PhotoManager PhotoManager7;
+        
+        /// <summary>
+        /// PhotoManager8 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::ATouchOfClassImages.PhotoManager PhotoManager8;
+        
+        /// <summary>
+        /// PhotoManager9 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::ATouchOfClassImages.PhotoManager PhotoManager9;
+        
+        /// <summary>
         /// PhotoManager1 control.
         /// </summary>
         /// <remarks>
@@ -40,12 +130,12 @@ namespace ATouchOfClassImages {
         protected global::ATouchOfClassImages.PhotoManager PhotoManager1;
         
         /// <summary>
-        /// PhotoManager2 control.
+        /// PhotoManager12 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ATouchOfClassImages.PhotoManager PhotoManager2;
+        protected global::ATouchOfClassImages.PhotoManager PhotoManager12;
     }
 }

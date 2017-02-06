@@ -45,12 +45,12 @@ namespace ATouchOfClassImages {
             localDirectory = Server.MapPath(fileUri);
             if (Directory.Exists(localDirectory)) {
 
-                var files = Directory.EnumerateFiles(localDirectory, "*.*", SearchOption.AllDirectories)
-                     .Where(s => s.EndsWith(".png") || s.EndsWith(".jpg") || s.EndsWith(".gif"));
-
+                var files = Directory.GetFiles(localDirectory, "*.*");
                 List<String> images = new List<string>(files.Count());
                 foreach (string item in files) {
-                    images.Add(String.Format(fileUri + "/{0}", System.IO.Path.GetFileName(item)));
+                    if (item.EndsWith(".png") || item.EndsWith(".jpg") || item.EndsWith(".gif")) {
+                        images.Add(String.Format(fileUri + "/{0}", System.IO.Path.GetFileName(item)));
+                    }
                 }
                 RepeaterImages.DataSource = images;
                 RepeaterImages.DataBind();

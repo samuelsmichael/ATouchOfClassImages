@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="ATouchOfClassImages._default" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="ATouchOfClassImages._default" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -105,7 +105,7 @@
 <div id="footerbox">
 P.O. Box 38081, Colorado Springs, CO 80904, 719-633-3786
 <br>
-© <?php print(Date("Y")); ?> Alberto Leopizzi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Services by <a href="http://www.robinbriggs.com">Robin Briggs</a>&nbsp;&nbsp;<a href="photos_admin.aspx"><img border="0" src="smiley.png"></a>
+� <% =DateTime.Today.ToString() %><?php print(Date("Y")); ?> Alberto Leopizzi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Services by <a href="mailto:diamondsoftware222@gmail.com">Diamond Software</a>&nbsp;&nbsp;<a href="login.php"><img border="0" src="smiley.png"></a>
 </div>
 
 </div>

@@ -1,7 +1,7 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="True" CodeBehind="PhotoManager.ascx.cs"
     Inherits="ATouchOfClassImages.PhotoManager" %>
     <h3><asp:Label ID="lblPhotoManagerDirectory" runat="server"></asp:Label></h3>
-    <asp:Panel ID="pnlPhotos" runat="server" Width="100%" style="height:240px; overflow:auto; padding-bottom: 1em;">
+    <asp:Panel ID="pnlPhotos" runat="server" Width="100%" style="height:240px; margin-top:-15px; overflow:auto; padding-bottom: 1em;">
     <table>
     <tr>
         <asp:Repeater  ID="RepeaterImages" runat="server" >
